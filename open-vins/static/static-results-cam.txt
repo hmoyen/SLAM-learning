@@ -1,0 +1,30 @@
+Calibration results 
+====================
+Camera-system parameters:
+cam0 (/t265/fisheye1/image_raw):
+    type: <class 'aslam_cv.libaslam_cv_python.EquidistantDistortedPinholeCameraGeometry'>
+    distortion: [-0.00770273  0.05645265 -0.05420016  0.01160013] +- [0.00260536 0.00597988 0.0050449  0.00145058]
+    projection: [280.04528976 279.13548477 422.57618597 398.21085361] +- [0.01832942 0.01883234 0.11503617 0.11832673]
+    reprojection error: [-0.000000, -0.000000] +- [0.496539, 0.520906]
+
+cam1 (/t265/fisheye2/image_raw):
+    type: <class 'aslam_cv.libaslam_cv_python.EquidistantDistortedPinholeCameraGeometry'>
+    distortion: [ 0.00368163  0.03279753 -0.03578695  0.00706684] +- [0.00273667 0.00645608 0.0055791  0.0016338 ]
+    projection: [280.1113365  278.95813286 422.79671065 397.11143503] +- [0.01802407 0.01878333 0.11188047 0.11760618]
+    reprojection error: [0.000000, -0.000000] +- [0.501071, 0.534379]
+
+baseline T_1_0:
+    q: [-0.002754    0.00289859  0.00108536  0.99999142] +- [0.00040956 0.00047272 0.00008798]
+    t: [-0.06233999  0.00001706 -0.00013432] +- [0.00008729 0.00010076 0.00020069]
+
+
+
+Target configuration
+====================
+
+  Type: aprilgrid
+  Tags: 
+    Rows: 6
+    Cols: 6
+    Size: 0.088 [m]
+    Spacing 0.026399999999999996 [m]

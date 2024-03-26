@@ -1,0 +1,3 @@
+[submodule "SLAM-Algorithms-Octave"]
+	path = SLAM-Algorithms-Octave
+	url = https://github.com/kiran-mohan/SLAM-Algorithms-Octave.git

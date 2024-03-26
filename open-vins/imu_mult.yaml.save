@@ -1,0 +1,14 @@
+# from a 7 hour static imu dataset
+# White noise x5
+# random walks x10
+
+#Accelerometer
+accelerometer_noise_density: 0.0015652635649497616 
+accelerometer_random_walk: 0.0003530287405478416 
+
+#Gyroscope
+gyroscope_noise_density: 0.0001682419062684848 
+gyroscope_random_walk: 7.269783693712976e-06 
+
+rostopic: '/t265/imu' #Make sure this is correct
+update_rate: 200.0 #Make sure this is correct
