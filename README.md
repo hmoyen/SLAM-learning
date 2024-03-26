@@ -8,7 +8,7 @@ This submodule includes tutorials and examples written in Octave for understandi
 
 ## Calibration Results for OpenVINS Algorithm
 
-The second submodule provides calibration results that can be used with the OpenVINS algorithm. These calibration results are essential for accurate sensor fusion and localization. You can use them directly with OpenVINS without the need for ROS bags.
+The second submodule provides calibration results that can be used with the OpenVINS algorithm. These calibration results are essential for accurate sensor fusion and localization. I used ROS bags to callibrate, which I could not upload (too heavy).
 
 ## Still in progress
 
