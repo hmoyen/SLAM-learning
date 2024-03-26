@@ -4,7 +4,8 @@ Welcome to the SLAM Learning Repository! This repository contains resources and 
 
 ## Octave Tutorials on SLAM
 
-This submodule includes tutorials and examples written in Octave for understanding and implementing SLAM algorithms. Whether you're a beginner or an experienced practitioner, these tutorials will help you grasp the fundamentals and dive deeper into SLAM concepts.
+This submodule includes tutorials and examples written in Octave for understanding and implementing SLAM algorithms. I used the lectures of 
+Cyrill Stachniss and these scripts to better understand SLAM.
 
 ## Calibration Results for OpenVINS Algorithm
 
